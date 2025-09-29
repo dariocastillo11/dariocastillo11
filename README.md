@@ -1,37 +1,42 @@
-# ¡Hola! 👋 Soy Darío Castillo
+# Hello there! 👋 I'm Darío Castillo
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+en+Computaci%C3%B3n;Desarrollador+Full+Stack+Jr;Apasionado+por+la+Programaci%C3%B3n;Buscando+oportunidades+profesionales)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing## 🎓 Education
+
+🏦 **Computer Engineering** - UNC (2018 - Present)  
+📱 **Electronics Technician** - Instituto Dr. José Antonio Balseiro (2010-2017)  
+💻 **Full Stack Jr** - Argentina Programa (2022-2023)  
+🎮 **Game Design** - Escuela de Formación Laboral (2021-2022)erokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Junior+Full+Stack+Developer;Passionate+about+Programming;Looking+for+professional+opportunities)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-🎓 **Estudiante avanzado de Ingeniería en Computación** en UNC (4.º año)  
-💻 **Desarrollador Full Stack Jr** certificado por Argentina Programa  
-🔧 **Técnico Electrónico** con sólida base en hardware  
-🎮 **Diseñador de Videojuegos** con experiencia en Unity y Godot  
+🎓 **Advanced Computer Engineering Student** at UNC (4th year)  
+💻 **Junior Full Stack Developer** certified by Argentina Programa  
+🔧 **Electronics Technician** with solid hardware background  
+🎮 **Game Designer** with experience in Unity and Godot  
 
-> *"Busco mi primera oportunidad profesional como desarrollador junior donde pueda aplicar mis conocimientos técnicos y seguir creciendo en el mundo del desarrollo de software."*
+> *"Looking for my first professional opportunity as a junior developer where I can apply my technical knowledge and continue growing in the software development world."*
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
-### 💻 Lenguajes de Programación
+### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🌐 Web Básico
+### 🌐 Basic Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔧 Herramientas y Frameworks
+### 🔧 Tools and Frameworks
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -40,7 +45,7 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### 📊 Monitoreo, DevOps y Debugging
+### 📊 Monitoring, DevOps & Debugging
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
@@ -49,42 +54,42 @@
 
 ---
 
-## 🎯 Proyectos Destacados
+## 🎯 Featured Projects
 
-### 🌟 [Sistema de Monitoreo de Sistema](https://github.com/dariocastillo11/tp1-s.op)
-**Tecnologías:** C, Prometheus, Grafana  
-- Sistema de monitoreo que utiliza `/proc` para medir métricas del sistema
-- Visualización de datos en tiempo real con dashboards personalizados
-- Medición de uso de CPU, memoria y rendimiento del sistema
+### 🌟 [System Monitoring Tool](https://github.com/dariocastillo11/tp1-s.op)
+**Technologies:** C, Prometheus, Grafana  
+- System monitoring tool that uses `/proc` to measure system metrics
+- Real-time data visualization with custom dashboards
+- CPU usage, memory, and system performance monitoring
 
-### 🐚 [Shell Personalizada](https://github.com/dariocastillo11/tp2-shellPersonalizada)
-**Tecnologías:** C, CMake, Conan, Unity Testing  
-- Desarrollo de una shell completa desde cero
-- Integración con submódulos de GitHub
-- Pruebas unitarias implementadas con Unity
-- Gestión de dependencias con Conan
+### 🐚 [Custom Shell](https://github.com/dariocastillo11/tp2-shellPersonalizada)
+**Technologies:** C, CMake, Conan, Unity Testing  
+- Complete shell development from scratch
+- Integration with GitHub submodules
+- Unit testing implemented with Unity framework
+- Dependency management with Conan
 
-### 💼 [Portafolio Full Stack](https://github.com/dariocastillo11/backend-portafolio)
-**Tecnologías:** Java, HTML, CSS  
-- Aplicación web completa con backend y frontend
-- API RESTful desarrollada en Java
-- Frontend básico con HTML y CSS
+### 💼 [Full Stack Portfolio](https://github.com/dariocastillo11/backend-portafolio)
+**Technologies:** Java, HTML, CSS  
+- Complete web application with backend and frontend
+- RESTful API developed in Java
+- Basic frontend with HTML and CSS
 - [Frontend Repository](https://github.com/dariocastillo11/FrontEnd)
 
-### 🎮 Desarrollo de Videojuegos
-**[Raycast Engine](https://github.com/dariocastillo11/Raycast---godot)** - Motor de raycast en Godot  
-**[Robot Game](https://github.com/dariocastillo11/Robot---godot)** - Juego de robots desarrollado en Godot
+### 🎮 Game Development
+**[Raycast Engine](https://github.com/dariocastillo11/Raycast---godot)** - Raycast engine in Godot  
+**[Robot Game](https://github.com/dariocastillo11/Robot---godot)** - Robot game developed in Godot
 
-### 📚 [Algoritmos y Estructuras de Datos](https://github.com/dariocastillo11/tp3--ayed)
-**Tecnologías:** C++  
-- Implementación de estructuras de datos avanzadas
-- Algoritmos de ordenamiento y búsqueda
-- Trabajo con grafos y conjuntos
+### 📚 [Algorithms and Data Structures](https://github.com/dariocastillo11/tp3--ayed)
+**Technologies:** C++  
+- Implementation of advanced data structures
+- Sorting and searching algorithms
+- Working with graphs and sets
 - [TP2](https://github.com/dariocastillo11/tp2--Ayed) | [TP1](https://github.com/dariocastillo11/tp1ayed)
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -107,16 +112,16 @@
 
 ---
 
-## 🌱 Actualmente
+## 🌱 Currently
 
-- 🔭 Trabajando en proyectos académicos de sistemas operativos
-- 🌱 Aprendiendo más sobre desarrollo web y arquitecturas de software
-- 👯 Buscando colaborar en proyectos open source
-- 💼 En búsqueda activa de oportunidades como desarrollador junior
+- 🔭 Working on academic operating systems projects
+- 🌱 Learning more about web development and software architectures
+- 👯 Looking to collaborate on open source projects
+- 💼 Actively seeking opportunities as a junior developer
 
 ---
 
-## 📫 Contacto
+## � Contact
 
 <div align="center">
 
@@ -132,11 +137,11 @@
 
 <div align="center">
 
-### 💡 *"El código es poesía en movimiento"*
+### 💡 *"Code is poetry in motion"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dariocastillo11&color=36BCF7&style=for-the-badge)
 
-⭐️ *¡No olvides dar una estrella a los repositorios que te gusten!* ⭐️
+⭐️ *Don't forget to star the repositories you like!* ⭐️
 
 </div>
 <!--
