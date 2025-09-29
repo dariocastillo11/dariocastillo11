@@ -2,12 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing## 🎓 Education
-
-🏦 **Computer Engineering** - UNC (2018 - Present)  
-📱 **Electronics Technician** - Instituto Dr. José Antonio Balseiro (2010-2017)  
-💻 **Full Stack Jr** - Argentina Programa (2022-2023)  
-🎮 **Game Design** - Escuela de Formación Laboral (2021-2022)erokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Junior+Full+Stack+Developer;Passionate+about+Programming;Looking+for+professional+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Junior+Full+Stack+Developer;Passionate+about+Programming;Looking+for+professional+opportunities)](https://git.io/typing-svg)
 
 </div>
 
@@ -99,16 +94,18 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dariocastillo11&theme=radical&hide_border=true)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dariocastillo11&theme=react-dark&hide_border=true)
+
 </div>
 
 ---
 
-## 🎓 Formación Académica
+## 🎓 Education
 
-🏛️ **Ingeniería en Computación** - UNC (2018 - Presente)  
-📱 **Técnico Electrónico** - Instituto Dr. José Antonio Balseiro (2010-2017)  
+🏛️ **Computer Engineering** - UNC (2018 - Present)  
+📱 **Electronics Technician** - Instituto Dr. José Antonio Balseiro (2010-2017)  
 💻 **Full Stack Jr** - Argentina Programa (2022-2023)  
-🎮 **Diseño de Videojuegos** - Escuela de Formación Laboral (2021-2022)  
+🎮 **Game Design** - Escuela de Formación Laboral (2021-2022)  
 
 ---
 
