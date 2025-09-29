@@ -25,25 +25,27 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🌐 Frontend
+### 🌐 Web Básico
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### 🔧 Herramientas y Frameworks
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### 📊 Monitoreo y DevOps
+### 📊 Monitoreo, DevOps y Debugging
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Valgrind](https://img.shields.io/badge/Valgrind-FF6B35?style=for-the-badge&logo=gnu&logoColor=white)
+![Horusec](https://img.shields.io/badge/Horusec-4B0082?style=for-the-badge&logo=security&logoColor=white)
 
 ---
 
@@ -63,10 +65,10 @@
 - Gestión de dependencias con Conan
 
 ### 💼 [Portafolio Full Stack](https://github.com/dariocastillo11/backend-portafolio)
-**Tecnologías:** Java, Angular, HTML, CSS  
+**Tecnologías:** Java, HTML, CSS  
 - Aplicación web completa con backend y frontend
 - API RESTful desarrollada en Java
-- Frontend responsivo con Angular
+- Frontend básico con HTML y CSS
 - [Frontend Repository](https://github.com/dariocastillo11/FrontEnd)
 
 ### 🎮 Desarrollo de Videojuegos
