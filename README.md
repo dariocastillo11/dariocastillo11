@@ -50,7 +50,11 @@
 ---
 
 ## 🎯 Featured Projects
-
+### 🌟 [SNAKE - LPC1769](https://github.com/dariocastillo11/SNAKE---LPC1769.git)
+**Technologies:** C, Prometheus, Grafana  
+- Video game created using an LPC1769. It uses an I2C module to control a 20x4 LCD screen. It also features a joystick for ADC control and, as a second option, a Bluetooth joystick.
+Board modules used: I2C, Timer, ADC, DAC, GPDMA, UART
+  
 ### 🌟 [System Monitoring Tool](https://github.com/dariocastillo11/tp1-s.op)
 **Technologies:** C, Prometheus, Grafana  
 - System monitoring tool that uses `/proc` to measure system metrics
