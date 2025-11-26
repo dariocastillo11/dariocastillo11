@@ -52,14 +52,27 @@
 ## 🎯 Featured Projects
 ### 🌟 [SNAKE - LPC1769](https://github.com/dariocastillo11/SNAKE---LPC1769.git)
 **Technologies:** C, Prometheus, Grafana  
-- Video game created using an LPC1769. It uses an I2C module to control a 20x4 LCD screen. It also features a joystick for ADC control and, as a second option, a Bluetooth joystick.
+
+  <p align="left">
+  - Video game created using an LPC1769. It uses an I2C module to control a 20x4 LCD screen. It also features a joystick for ADC control and, as a second option, a Bluetooth joystick.
 Board modules used: I2C, Timer, ADC, DAC, GPDMA, UART
+  </p>
+  <p align="righ">
+    <img src="https://github.com/user-attachments/assets/474bd065-94ee-44f2-87e9-4ae8bf61a03d" width="100" />
+  </p>
+
   
 ### 🌟 [System Monitoring Tool](https://github.com/dariocastillo11/tp1-s.op)
 **Technologies:** C, Prometheus, Grafana  
-- System monitoring tool that uses `/proc` to measure system metrics
-- Real-time data visualization with custom dashboards
-- CPU usage, memory, and system performance monitoring
+
+  <p align="left">
+  - System monitoring tool that uses `/proc` to measure system metrics
+  - Real-time data visualization with custom dashboards
+  - CPU usage, memory, and system performance monitoring
+  </p>
+  <p align="righ">
+    <img src="https://github.com/user-attachments/assets/3c527505-eedc-4a17-807c-3ef3cf2641af" width="200" />
+  </p>
 
 ### 🐚 [Custom Shell](https://github.com/dariocastillo11/tp2-shellPersonalizada)
 **Technologies:** C, CMake, Conan, Unity Testing  
